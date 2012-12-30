@@ -5,7 +5,6 @@
 	<default revision="master"
 		remote="github" />
 	
-	<project path="32bit-sdk/bootstrap" name="bootstrap">
-	<project path="32bit-sdk/u-boot-1.2.0" name="u-boot-1.2.0">
+	<project path="32bit-sdk/bootstrap" name="bootstrap" />
+	<project path="32bit-sdk/u-boot-1.2.0" name="u-boot-1.2.0" />
 </manifest>
-	
