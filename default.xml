@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote  name="github"
+	<remote  name="origin"
 		fetch="https://github.com/yanjiegit/" />
 	<default revision="master"
-		remote="github" />
+		remote="origin" />
 	
 	<project path="32bit-sdk/bootstrap" name="bootstrap" />
 	<project path="32bit-sdk/u-boot-1.2.0" name="u-boot-1.2.0" />
